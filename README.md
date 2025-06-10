@@ -334,9 +334,6 @@ CMD ["streamlit", "run", "app.py", "--server.address", "0.0.0.0"]
 - **UI/UX**: Enhance web interface design
 - **Documentation**: Add more examples and tutorials
 
-## 📄 License
-
-This project is licensed under the MIT License. See LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
