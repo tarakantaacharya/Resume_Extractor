@@ -1,0 +1,40 @@
+Jessica Rodriguez
+Email: jessica.rodriguez@email.com
+Phone: +1-855-690-1627
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 3 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Artificial Intelligence
+Purdue University
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: Django, Agile, Vue.js, Power BI, Python
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Backend Developer
+Yahoo
+2021 - 2022 (1 years)
+• Developed and maintained software applications using Vue.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Power BI for improved performance
+
+Backend Developer
+PayPal
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Vue.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Power BI for improved performance
+
+PROJECTS
+• Built a web application using Django and Agile
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

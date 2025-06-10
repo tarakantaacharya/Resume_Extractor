@@ -1,0 +1,40 @@
+Jessica Hernandez
+Email: jessica.hernandez@email.com
+Phone: +1-542-415-7709
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 7 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+Georgia Tech
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: CSS, Python, SQL, NumPy, Scikit-learn, Bootstrap
+Technologies & Frameworks: Microservices
+
+WORK EXPERIENCE
+
+Full Stack Developer
+LinkedIn
+2017 - 2018 (1 years)
+• Developed and maintained software applications using Python
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Bootstrap for improved performance
+
+Full Stack Developer
+Oracle
+2018 - 2021 (3 years)
+• Developed and maintained software applications using SQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Bootstrap for improved performance
+
+PROJECTS
+• Built a web application using NumPy and SQL
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,40 @@
+Ashley Miller
+Email: ashley.miller@email.com
+Phone: +1-969-382-7872
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 2 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+Harvard University
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, Java, Node.js, Bootstrap, Bash, React
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Frontend Developer
+Cisco
+2022 - 2023 (1 years)
+• Developed and maintained software applications using MongoDB
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented React for improved performance
+
+Frontend Developer
+Twitter
+2023 - 2024 (1 years)
+• Developed and maintained software applications using MongoDB
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented React for improved performance
+
+PROJECTS
+• Built a web application using MongoDB and MongoDB
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

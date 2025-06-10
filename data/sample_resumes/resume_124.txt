@@ -1,0 +1,47 @@
+Elizabeth Jones
+Email: elizabeth.jones@email.com
+Phone: +1-383-493-4047
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 5 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+Cornell University
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: Git, Bash, Microservices, Flask, Jenkins, PyTorch
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+DevOps Engineer
+Salesforce
+2019 - 2020 (1 years)
+• Developed and maintained software applications using Git
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Jenkins for improved performance
+
+DevOps Engineer
+Facebook
+2020 - 2021 (1 years)
+• Developed and maintained software applications using Bash
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Flask for improved performance
+
+DevOps Engineer
+GitLab
+2021 - 2022 (1 years)
+• Developed and maintained software applications using Git
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Jenkins for improved performance
+
+PROJECTS
+• Built a web application using Flask and Jenkins
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

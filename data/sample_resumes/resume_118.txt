@@ -1,0 +1,40 @@
+Susan Garcia
+Email: susan.garcia@email.com
+Phone: +1-716-907-5224
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 5 years of experience in software development and technology.
+
+EDUCATION
+Ph.D. in Computer Science
+University of Washington
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: HTML, Deep Learning, Spring Boot, Microservices, Azure, Vue.js
+Technologies & Frameworks: GraphQL, PyTorch, MacOS, Tableau, React, AWS
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+GitLab
+2019 - 2020 (1 years)
+• Developed and maintained software applications using Deep Learning
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Vue.js for improved performance
+
+Machine Learning Engineer
+Netflix
+2020 - 2021 (1 years)
+• Developed and maintained software applications using Deep Learning
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Azure for improved performance
+
+PROJECTS
+• Built a web application using GraphQL and Spring Boot
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

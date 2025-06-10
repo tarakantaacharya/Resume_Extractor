@@ -1,0 +1,40 @@
+Elizabeth Rodriguez
+Email: elizabeth.rodriguez@email.com
+Phone: +1-518-599-9512
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 6 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+Georgia Tech
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Kubernetes, Pandas, Angular, Data Science, GraphQL, Deep Learning
+Technologies & Frameworks: JIRA, MongoDB
+
+WORK EXPERIENCE
+
+Software Engineer
+Atlassian
+2018 - 2019 (1 years)
+• Developed and maintained software applications using Kubernetes
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented GraphQL for improved performance
+
+Software Engineer
+Docker
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Kubernetes
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Deep Learning for improved performance
+
+PROJECTS
+• Built a web application using Angular and MongoDB
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,40 @@
+Susan Miller
+Email: susan.miller@email.com
+Phone: +1-941-683-4501
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 3 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+University of Michigan
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: TensorFlow, Linux, C++, CSS, Tableau, Power BI
+Technologies & Frameworks: GraphQL, Spring Boot, Agile, PowerShell
+
+WORK EXPERIENCE
+
+Data Scientist
+Netflix
+2021 - 2023 (2 years)
+• Developed and maintained software applications using TensorFlow
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented CSS for improved performance
+
+Data Scientist
+Yahoo
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Linux
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Power BI for improved performance
+
+PROJECTS
+• Built a web application using Agile and C++
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

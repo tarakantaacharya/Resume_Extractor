@@ -1,0 +1,47 @@
+Elizabeth Miller
+Email: elizabeth.miller@email.com
+Phone: +1-578-541-1179
+
+PROFESSIONAL SUMMARY
+Experienced Software Architect with 8 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+Yale University
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: Agile, Docker, Angular, Django, Power BI, React
+Technologies & Frameworks: Excel, Pandas, AWS
+
+WORK EXPERIENCE
+
+Software Architect
+Slack
+2016 - 2017 (1 years)
+• Developed and maintained software applications using Agile
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Power BI for improved performance
+
+Software Architect
+Cisco
+2017 - 2018 (1 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Django for improved performance
+
+Software Architect
+GitHub
+2018 - 2020 (2 years)
+• Developed and maintained software applications using Angular
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Power BI for improved performance
+
+PROJECTS
+• Built a web application using Excel and Django
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

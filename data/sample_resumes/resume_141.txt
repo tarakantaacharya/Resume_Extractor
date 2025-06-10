@@ -1,0 +1,40 @@
+Emily Hernandez
+Email: emily.hernandez@email.com
+Phone: +1-595-991-4435
+
+PROFESSIONAL SUMMARY
+Experienced Software Architect with 5 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+Harvard University
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, JIRA, Excel, Angular, Scrum, Scikit-learn
+Technologies & Frameworks: Windows, Power BI, Bootstrap, PyTorch, Python, Data Science
+
+WORK EXPERIENCE
+
+Software Architect
+MongoDB
+2019 - 2021 (2 years)
+• Developed and maintained software applications using Excel
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Scikit-learn for improved performance
+
+Software Architect
+Facebook
+2021 - 2024 (3 years)
+• Developed and maintained software applications using JIRA
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Angular for improved performance
+
+PROJECTS
+• Built a web application using Data Science and Scrum
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

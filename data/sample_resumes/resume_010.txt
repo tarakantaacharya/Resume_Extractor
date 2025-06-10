@@ -1,0 +1,33 @@
+Elizabeth Robinson
+Email: elizabeth.robinson@email.com
+Phone: +1-369-239-8732
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 1 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+Cornell University
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Windows, CSS, Java, Scrum, Linux, Node.js
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Backend Developer
+NVIDIA
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Windows
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Node.js for improved performance
+
+PROJECTS
+• Built a web application using Linux and Windows
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

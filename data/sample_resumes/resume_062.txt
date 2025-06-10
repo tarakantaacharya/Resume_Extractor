@@ -1,0 +1,33 @@
+James Jones
+Email: james.jones@email.com
+Phone: +1-830-285-6835
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 1 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+UCLA
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: TensorFlow, Bash, Deep Learning, MongoDB, Vue.js, JIRA
+Technologies & Frameworks: MacOS
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+PayPal
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Deep Learning
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented JIRA for improved performance
+
+PROJECTS
+• Built a web application using Deep Learning and Bash
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

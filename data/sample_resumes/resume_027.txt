@@ -1,0 +1,33 @@
+Mary Jones
+Email: mary.jones@email.com
+Phone: +1-982-193-3500
+
+PROFESSIONAL SUMMARY
+Experienced Mobile Developer with 1 years of experience in software development and technology.
+
+EDUCATION
+Ph.D. in Computer Science
+Yale University
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: CSS, GraphQL, Linux, Git, JavaScript, React
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Mobile Developer
+NVIDIA
+2023 - 2024 (1 years)
+• Developed and maintained software applications using GraphQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented React for improved performance
+
+PROJECTS
+• Built a web application using GraphQL and JavaScript
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

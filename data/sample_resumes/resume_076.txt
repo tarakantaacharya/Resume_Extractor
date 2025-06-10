@@ -1,0 +1,33 @@
+Ashley Jones
+Email: ashley.jones@email.com
+Phone: +1-157-566-5372
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 1 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+UC Berkeley
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Bash, Node.js, CSS, Angular, Microservices
+Technologies & Frameworks: Django, Tableau
+
+WORK EXPERIENCE
+
+Technical Lead
+Yahoo
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Bash
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Angular for improved performance
+
+PROJECTS
+• Built a web application using Angular and Bash
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

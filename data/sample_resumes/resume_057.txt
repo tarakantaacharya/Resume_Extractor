@@ -1,0 +1,33 @@
+Sarah Garcia
+Email: sarah.garcia@email.com
+Phone: +1-378-115-8051
+
+PROFESSIONAL SUMMARY
+Experienced Product Manager with 2 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+University of Illinois
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Windows, Kubernetes, Jenkins, JavaScript, Flask, Node.js
+Technologies & Frameworks: Microservices, Scikit-learn, Excel, JIRA
+
+WORK EXPERIENCE
+
+Product Manager
+LinkedIn
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Kubernetes
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented JavaScript for improved performance
+
+PROJECTS
+• Built a web application using JIRA and Scikit-learn
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

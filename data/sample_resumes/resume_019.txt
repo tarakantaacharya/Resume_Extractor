@@ -1,0 +1,40 @@
+Susan Lewis
+Email: susan.lewis@email.com
+Phone: +1-675-740-9909
+
+PROFESSIONAL SUMMARY
+Experienced Product Manager with 4 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Electronics
+Georgia Tech
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Data Science, Microservices, Angular, Machine Learning, Linux, Java
+Technologies & Frameworks: Pandas, PostgreSQL
+
+WORK EXPERIENCE
+
+Product Manager
+Docker
+2020 - 2021 (1 years)
+• Developed and maintained software applications using Microservices
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Java for improved performance
+
+Product Manager
+Zoom
+2021 - 2024 (3 years)
+• Developed and maintained software applications using Microservices
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Machine Learning for improved performance
+
+PROJECTS
+• Built a web application using Angular and Data Science
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

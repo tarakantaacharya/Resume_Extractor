@@ -1,0 +1,33 @@
+Emily Jones
+Email: emily.jones@email.com
+Phone: +1-522-419-1475
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer with 1 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+University of Texas at Austin
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: Docker, GraphQL, MongoDB, Python, REST API, Kubernetes
+Technologies & Frameworks: PostgreSQL, Azure, Windows
+
+WORK EXPERIENCE
+
+Cloud Engineer
+Atlassian
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented REST API for improved performance
+
+PROJECTS
+• Built a web application using Azure and MongoDB
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+James Johnson
+Email: james.johnson@email.com
+Phone: +1-379-329-4987
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 1 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+Carnegie Mellon
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: TensorFlow, Vue.js, Linux, Git, Node.js, Scrum
+Technologies & Frameworks: Excel
+
+WORK EXPERIENCE
+
+Data Scientist
+Spotify
+2023 - 2024 (1 years)
+• Developed and maintained software applications using TensorFlow
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Scrum for improved performance
+
+PROJECTS
+• Built a web application using Node.js and Excel
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+James Martin
+Email: james.martin@email.com
+Phone: +1-150-928-9349
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 4 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+Ohio State University
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: Scikit-learn, Bootstrap, TensorFlow, JIRA, CSS, Kubernetes
+Technologies & Frameworks: Bash, Django, MacOS, Linux, Git
+
+WORK EXPERIENCE
+
+Technical Lead
+Zoom
+2020 - 2022 (2 years)
+• Developed and maintained software applications using Scikit-learn
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Kubernetes for improved performance
+
+PROJECTS
+• Built a web application using TensorFlow and Bash
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+Matthew Rodriguez
+Email: matthew.rodriguez@email.com
+Phone: +1-182-525-3159
+
+PROFESSIONAL SUMMARY
+Experienced Software Architect with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Machine Learning
+MIT
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Docker, Git, Power BI, Tableau, React, Java
+Technologies & Frameworks: Scrum
+
+WORK EXPERIENCE
+
+Software Architect
+Amazon
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Git
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Java for improved performance
+
+PROJECTS
+• Built a web application using Docker and Java
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

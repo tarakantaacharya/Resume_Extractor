@@ -1,0 +1,33 @@
+Joseph Johnson
+Email: joseph.johnson@email.com
+Phone: +1-867-370-5545
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 2 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+University of Florida
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: C++, React, TensorFlow, Scrum, Data Science, Pandas
+Technologies & Frameworks: MacOS, Windows, Bash, CSS, Tableau
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Facebook
+2022 - 2024 (2 years)
+• Developed and maintained software applications using TensorFlow
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Pandas for improved performance
+
+PROJECTS
+• Built a web application using TensorFlow and CSS
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

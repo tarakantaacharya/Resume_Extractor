@@ -1,0 +1,33 @@
+Mary Miller
+Email: mary.miller@email.com
+Phone: +1-958-907-2079
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 5 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+Penn State
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, Pandas, Linux, Java, Vue.js, React
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Frontend Developer
+Intel
+2019 - 2022 (3 years)
+• Developed and maintained software applications using MongoDB
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented React for improved performance
+
+PROJECTS
+• Built a web application using React and Pandas
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

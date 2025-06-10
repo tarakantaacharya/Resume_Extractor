@@ -1,0 +1,40 @@
+Mary Garcia
+Email: mary.garcia@email.com
+Phone: +1-896-290-4284
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+Ph.D. in Computer Science
+MIT
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: Kubernetes, Tableau, GraphQL, TensorFlow, Agile, Git
+Technologies & Frameworks: React
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Yahoo
+2020 - 2023 (3 years)
+• Developed and maintained software applications using Tableau
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Git for improved performance
+
+Machine Learning Engineer
+PayPal
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Kubernetes
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Git for improved performance
+
+PROJECTS
+• Built a web application using TensorFlow and Kubernetes
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

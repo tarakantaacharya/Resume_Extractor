@@ -1,0 +1,33 @@
+Lisa Miller
+Email: lisa.miller@email.com
+Phone: +1-926-406-4605
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 1 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Electronics
+Purdue University
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: Git, Java, JIRA, Data Science, REST API, PostgreSQL
+Technologies & Frameworks: PyTorch, Pandas
+
+WORK EXPERIENCE
+
+Technical Lead
+GitLab
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Git
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented REST API for improved performance
+
+PROJECTS
+• Built a web application using Java and Git
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+Robert Garcia
+Email: robert.garcia@email.com
+Phone: +1-948-877-5010
+
+PROFESSIONAL SUMMARY
+Experienced QA Engineer with 1 years of experience in software development and technology.
+
+EDUCATION
+Ph.D. in Computer Science
+University of Michigan
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: PostgreSQL, Excel, SQL, REST API, GraphQL
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+QA Engineer
+Yahoo
+2023 - 2024 (1 years)
+• Developed and maintained software applications using PostgreSQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented GraphQL for improved performance
+
+PROJECTS
+• Built a web application using GraphQL and PostgreSQL
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

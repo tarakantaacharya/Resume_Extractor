@@ -1,0 +1,33 @@
+Joseph Garcia
+Email: joseph.garcia@email.com
+Phone: +1-981-731-7507
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 1 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+Yale University
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, CSS, Microservices, Agile, Python, MongoDB
+Technologies & Frameworks: SQL, Vue.js, C++, MacOS
+
+WORK EXPERIENCE
+
+Backend Developer
+Netflix
+2023 - 2024 (1 years)
+• Developed and maintained software applications using PowerShell
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Python for improved performance
+
+PROJECTS
+• Built a web application using CSS and CSS
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

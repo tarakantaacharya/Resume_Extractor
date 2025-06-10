@@ -1,0 +1,40 @@
+Robert Hernandez
+Email: robert.hernandez@email.com
+Phone: +1-596-978-6213
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 4 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+MIT
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: GraphQL, Agile, PostgreSQL, Java, Vue.js, C++
+Technologies & Frameworks: Django, Bash, PyTorch, PowerShell, Deep Learning
+
+WORK EXPERIENCE
+
+Full Stack Developer
+Amazon
+2020 - 2021 (1 years)
+• Developed and maintained software applications using PostgreSQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented C++ for improved performance
+
+Full Stack Developer
+Docker
+2021 - 2024 (3 years)
+• Developed and maintained software applications using GraphQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Java for improved performance
+
+PROJECTS
+• Built a web application using Vue.js and Deep Learning
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

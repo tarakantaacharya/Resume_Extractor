@@ -1,0 +1,40 @@
+David Johnson
+Email: david.johnson@email.com
+Phone: +1-508-430-5900
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+Cornell University
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Python, PowerShell, Azure, Flask, MongoDB, Excel
+Technologies & Frameworks: Tableau, Jenkins, TensorFlow, SQL, Vue.js
+
+WORK EXPERIENCE
+
+DevOps Engineer
+Docker
+2020 - 2022 (2 years)
+• Developed and maintained software applications using PowerShell
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MongoDB for improved performance
+
+DevOps Engineer
+eBay
+2022 - 2024 (2 years)
+• Developed and maintained software applications using PowerShell
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Flask for improved performance
+
+PROJECTS
+• Built a web application using Excel and Vue.js
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,47 @@
+Susan Miller
+Email: susan.miller@email.com
+Phone: +1-762-568-8304
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 7 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+Penn State
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: Vue.js, Docker, Bash, Microservices, Tableau, C++
+Technologies & Frameworks: Agile, Linux, Jenkins, REST API, Python, CSS
+
+WORK EXPERIENCE
+
+Technical Lead
+Amazon
+2017 - 2019 (2 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Microservices for improved performance
+
+Technical Lead
+Airbnb
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Bash
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Tableau for improved performance
+
+Technical Lead
+MongoDB
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Bash
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Tableau for improved performance
+
+PROJECTS
+• Built a web application using Vue.js and Linux
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,47 @@
+Jennifer Miller
+Email: jennifer.miller@email.com
+Phone: +1-204-472-4216
+
+PROFESSIONAL SUMMARY
+Experienced Data Analyst with 7 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+Purdue University
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: Machine Learning, TensorFlow, C++, NumPy, React, Linux
+Technologies & Frameworks: Jenkins
+
+WORK EXPERIENCE
+
+Data Analyst
+Salesforce
+2017 - 2020 (3 years)
+• Developed and maintained software applications using TensorFlow
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented NumPy for improved performance
+
+Data Analyst
+Airbnb
+2020 - 2022 (2 years)
+• Developed and maintained software applications using TensorFlow
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented React for improved performance
+
+Data Analyst
+Yahoo
+2022 - 2024 (2 years)
+• Developed and maintained software applications using C++
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Linux for improved performance
+
+PROJECTS
+• Built a web application using React and Jenkins
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

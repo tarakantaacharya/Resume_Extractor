@@ -1,0 +1,47 @@
+Michael Brown
+Email: michael.brown@email.com
+Phone: +1-727-527-8008
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 6 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+Purdue University
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: Power BI, Tableau, Java, Agile, Scikit-learn, GraphQL
+Technologies & Frameworks: TensorFlow
+
+WORK EXPERIENCE
+
+Technical Lead
+IBM
+2018 - 2021 (3 years)
+• Developed and maintained software applications using Power BI
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Agile for improved performance
+
+Technical Lead
+Twitter
+2021 - 2023 (2 years)
+• Developed and maintained software applications using Power BI
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented GraphQL for improved performance
+
+Technical Lead
+Spotify
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Tableau
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented GraphQL for improved performance
+
+PROJECTS
+• Built a web application using Scikit-learn and Java
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

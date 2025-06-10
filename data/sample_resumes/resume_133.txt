@@ -1,0 +1,33 @@
+James Williams
+Email: james.williams@email.com
+Phone: +1-775-846-7357
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 4 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+Columbia University
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Kubernetes, Power BI, CSS, Java, NumPy, Excel
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Full Stack Developer
+VMware
+2020 - 2023 (3 years)
+• Developed and maintained software applications using CSS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented NumPy for improved performance
+
+PROJECTS
+• Built a web application using CSS and Java
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

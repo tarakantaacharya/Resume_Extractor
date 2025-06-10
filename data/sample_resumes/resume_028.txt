@@ -1,0 +1,33 @@
+John Rodriguez
+Email: john.rodriguez@email.com
+Phone: +1-659-378-9270
+
+PROFESSIONAL SUMMARY
+Experienced Software Architect with 8 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+Harvard University
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: GraphQL, MacOS, Microservices, Spring Boot, PyTorch, Python
+Technologies & Frameworks: Angular, Bash
+
+WORK EXPERIENCE
+
+Software Architect
+VMware
+2016 - 2019 (3 years)
+• Developed and maintained software applications using MacOS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Spring Boot for improved performance
+
+PROJECTS
+• Built a web application using Microservices and Microservices
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

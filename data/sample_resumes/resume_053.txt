@@ -1,0 +1,33 @@
+Sarah Martinez
+Email: sarah.martinez@email.com
+Phone: +1-878-597-4435
+
+PROFESSIONAL SUMMARY
+Experienced Mobile Developer with 7 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Computer Science
+Stanford University
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: Flask, Bootstrap, Machine Learning, Angular, JavaScript, PostgreSQL
+Technologies & Frameworks: Bash
+
+WORK EXPERIENCE
+
+Mobile Developer
+Atlassian
+2017 - 2020 (3 years)
+• Developed and maintained software applications using Bootstrap
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented JavaScript for improved performance
+
+PROJECTS
+• Built a web application using JavaScript and PostgreSQL
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

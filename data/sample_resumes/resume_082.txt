@@ -1,0 +1,33 @@
+William Garcia
+Email: william.garcia@email.com
+Phone: +1-468-466-5251
+
+PROFESSIONAL SUMMARY
+Experienced Software Architect with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+University of Michigan
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: MacOS, PowerShell, JavaScript, Angular, React
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Software Architect
+Netflix
+2022 - 2024 (2 years)
+• Developed and maintained software applications using MacOS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Angular for improved performance
+
+PROJECTS
+• Built a web application using React and Angular
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

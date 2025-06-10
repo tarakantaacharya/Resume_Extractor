@@ -1,0 +1,33 @@
+Matthew Thomas
+Email: matthew.thomas@email.com
+Phone: +1-953-928-1366
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 2 years of experience in software development and technology.
+
+EDUCATION
+MBA
+UC Berkeley
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: Django, Jenkins, Windows, Excel, Machine Learning, React
+Technologies & Frameworks: Power BI, SQL, Docker, Scrum, Bootstrap
+
+WORK EXPERIENCE
+
+Technical Lead
+Apple
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Windows
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented React for improved performance
+
+PROJECTS
+• Built a web application using Scrum and Power BI
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+David Rodriguez
+Email: david.rodriguez@email.com
+Phone: +1-861-307-2804
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 4 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Computer Science
+Purdue University
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Bootstrap, Bash, Spring Boot, MongoDB, Data Science, Scikit-learn
+Technologies & Frameworks: C++
+
+WORK EXPERIENCE
+
+Backend Developer
+Spotify
+2020 - 2023 (3 years)
+• Developed and maintained software applications using Bootstrap
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MongoDB for improved performance
+
+PROJECTS
+• Built a web application using Data Science and Data Science
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

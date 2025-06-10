@@ -1,0 +1,40 @@
+David Jones
+Email: david.jones@email.com
+Phone: +1-598-892-4602
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 3 years of experience in software development and technology.
+
+EDUCATION
+Ph.D. in Computer Science
+Yale University
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: PostgreSQL, Node.js, Vue.js, Agile, Java, PowerShell
+Technologies & Frameworks: Docker, MacOS, Excel
+
+WORK EXPERIENCE
+
+Technical Lead
+Microsoft
+2021 - 2023 (2 years)
+• Developed and maintained software applications using Node.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Agile for improved performance
+
+Technical Lead
+Cisco
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Vue.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PowerShell for improved performance
+
+PROJECTS
+• Built a web application using Excel and PowerShell
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

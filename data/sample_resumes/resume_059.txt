@@ -1,0 +1,40 @@
+Matthew Miller
+Email: matthew.miller@email.com
+Phone: +1-331-596-8293
+
+PROFESSIONAL SUMMARY
+Experienced Mobile Developer with 6 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+University of Illinois
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Scrum, Flask, JavaScript, Deep Learning, Vue.js
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Mobile Developer
+IBM
+2018 - 2020 (2 years)
+• Developed and maintained software applications using Flask
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Deep Learning for improved performance
+
+Mobile Developer
+GitHub
+2020 - 2021 (1 years)
+• Developed and maintained software applications using Flask
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Deep Learning for improved performance
+
+PROJECTS
+• Built a web application using Scrum and Vue.js
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

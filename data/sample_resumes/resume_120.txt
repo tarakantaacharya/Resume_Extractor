@@ -1,0 +1,33 @@
+Susan Johnson
+Email: susan.johnson@email.com
+Phone: +1-863-294-8817
+
+PROFESSIONAL SUMMARY
+Experienced Software Architect with 1 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+University of Texas at Austin
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Scikit-learn, Microservices, Vue.js, Jenkins, Flask, GraphQL
+Technologies & Frameworks: SQL, Django, C++, PyTorch
+
+WORK EXPERIENCE
+
+Software Architect
+PayPal
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Vue.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented GraphQL for improved performance
+
+PROJECTS
+• Built a web application using SQL and Scikit-learn
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

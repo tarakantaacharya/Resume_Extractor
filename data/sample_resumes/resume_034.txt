@@ -1,0 +1,40 @@
+Jennifer Martinez
+Email: jennifer.martinez@email.com
+Phone: +1-539-133-4807
+
+PROFESSIONAL SUMMARY
+Experienced QA Engineer with 6 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+University of Florida
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Python, Data Science, Power BI, PostgreSQL, Node.js, Java
+Technologies & Frameworks: CSS, Bootstrap, SQL, JIRA, NumPy, MacOS
+
+WORK EXPERIENCE
+
+QA Engineer
+Uber
+2018 - 2020 (2 years)
+• Developed and maintained software applications using Power BI
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PostgreSQL for improved performance
+
+QA Engineer
+Zoom
+2020 - 2023 (3 years)
+• Developed and maintained software applications using Power BI
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Java for improved performance
+
+PROJECTS
+• Built a web application using Python and Data Science
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

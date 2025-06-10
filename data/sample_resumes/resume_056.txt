@@ -1,0 +1,40 @@
+Ashley Hernandez
+Email: ashley.hernandez@email.com
+Phone: +1-189-290-1527
+
+PROFESSIONAL SUMMARY
+Experienced QA Engineer with 8 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Computer Science
+MIT
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, AWS, Python, Angular, C++, Agile
+Technologies & Frameworks: Excel, Bash
+
+WORK EXPERIENCE
+
+QA Engineer
+Dropbox
+2016 - 2019 (3 years)
+• Developed and maintained software applications using PowerShell
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Agile for improved performance
+
+QA Engineer
+MongoDB
+2019 - 2021 (2 years)
+• Developed and maintained software applications using PowerShell
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Angular for improved performance
+
+PROJECTS
+• Built a web application using Agile and AWS
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

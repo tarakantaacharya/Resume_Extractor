@@ -1,0 +1,47 @@
+Daniel Jones
+Email: daniel.jones@email.com
+Phone: +1-221-838-4874
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 8 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+Stanford University
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Power BI, PyTorch, Excel, Flask, SQL, MongoDB
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Backend Developer
+Intel
+2016 - 2019 (3 years)
+• Developed and maintained software applications using Excel
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Flask for improved performance
+
+Backend Developer
+Oracle
+2019 - 2021 (2 years)
+• Developed and maintained software applications using Excel
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented SQL for improved performance
+
+Backend Developer
+GitLab
+2021 - 2024 (3 years)
+• Developed and maintained software applications using PyTorch
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented SQL for improved performance
+
+PROJECTS
+• Built a web application using Excel and Excel
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

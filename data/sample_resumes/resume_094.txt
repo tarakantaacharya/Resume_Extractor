@@ -1,0 +1,33 @@
+Lisa Williams
+Email: lisa.williams@email.com
+Phone: +1-558-347-9626
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 2 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+Stanford University
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: Data Science, Agile, CSS, PostgreSQL, JIRA, TensorFlow
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Backend Developer
+Slack
+2022 - 2024 (2 years)
+• Developed and maintained software applications using CSS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented JIRA for improved performance
+
+PROJECTS
+• Built a web application using JIRA and CSS
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

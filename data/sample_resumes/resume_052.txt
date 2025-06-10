@@ -1,0 +1,47 @@
+David Johnson
+Email: david.johnson@email.com
+Phone: +1-236-149-8752
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 6 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Electronics
+University of Washington
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: Kubernetes, Scikit-learn, React, AWS, PowerShell
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+AI Engineer
+Uber
+2018 - 2019 (1 years)
+• Developed and maintained software applications using React
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented AWS for improved performance
+
+AI Engineer
+Google
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Scikit-learn
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PowerShell for improved performance
+
+AI Engineer
+GitLab
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Scikit-learn
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented AWS for improved performance
+
+PROJECTS
+• Built a web application using AWS and Scikit-learn
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

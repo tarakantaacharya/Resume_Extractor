@@ -1,0 +1,47 @@
+Robert Garcia
+Email: robert.garcia@email.com
+Phone: +1-356-682-1750
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 6 years of experience in software development and technology.
+
+EDUCATION
+MBA
+University of Texas at Austin
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Linux, Bash, GraphQL, Java, JIRA, Azure
+Technologies & Frameworks: Vue.js, C++, Microservices, Jenkins, Scrum, Git
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+PayPal
+2018 - 2019 (1 years)
+• Developed and maintained software applications using GraphQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented JIRA for improved performance
+
+Machine Learning Engineer
+Cisco
+2019 - 2020 (1 years)
+• Developed and maintained software applications using Bash
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Java for improved performance
+
+Machine Learning Engineer
+VMware
+2020 - 2022 (2 years)
+• Developed and maintained software applications using Bash
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Azure for improved performance
+
+PROJECTS
+• Built a web application using Vue.js and Linux
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

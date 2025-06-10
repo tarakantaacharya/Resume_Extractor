@@ -1,0 +1,40 @@
+William Davis
+Email: william.davis@email.com
+Phone: +1-773-978-9543
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 4 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+University of Illinois
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: Power BI, Tableau, Excel, Spring Boot, Git, CSS
+Technologies & Frameworks: SQL, REST API, Python, Angular, PowerShell, Bash
+
+WORK EXPERIENCE
+
+Data Scientist
+Salesforce
+2020 - 2021 (1 years)
+• Developed and maintained software applications using Excel
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented CSS for improved performance
+
+Data Scientist
+GitLab
+2021 - 2024 (3 years)
+• Developed and maintained software applications using Excel
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented CSS for improved performance
+
+PROJECTS
+• Built a web application using CSS and PowerShell
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

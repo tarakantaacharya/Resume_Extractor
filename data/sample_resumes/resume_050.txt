@@ -1,0 +1,33 @@
+Christopher Williams
+Email: christopher.williams@email.com
+Phone: +1-998-354-2792
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 2 years of experience in software development and technology.
+
+EDUCATION
+MBA
+Stanford University
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: JIRA, React, Git, Microservices, Scrum, Scikit-learn
+Technologies & Frameworks: Deep Learning, PostgreSQL
+
+WORK EXPERIENCE
+
+Frontend Developer
+Amazon
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Git
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Scikit-learn for improved performance
+
+PROJECTS
+• Built a web application using Git and Microservices
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

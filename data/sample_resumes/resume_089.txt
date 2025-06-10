@@ -1,0 +1,33 @@
+Michael Rodriguez
+Email: michael.rodriguez@email.com
+Phone: +1-591-327-6902
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer with 2 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Electronics
+Purdue University
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: Linux, SQL, Git, MongoDB, Scrum, Django
+Technologies & Frameworks: Machine Learning, Jenkins, Kubernetes, Spring Boot, REST API
+
+WORK EXPERIENCE
+
+Cloud Engineer
+Salesforce
+2022 - 2024 (2 years)
+• Developed and maintained software applications using SQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MongoDB for improved performance
+
+PROJECTS
+• Built a web application using Spring Boot and Linux
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

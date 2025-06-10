@@ -1,0 +1,33 @@
+Elizabeth Garcia
+Email: elizabeth.garcia@email.com
+Phone: +1-996-640-1466
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Information Technology
+Penn State
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, Node.js, Azure, HTML, Data Science, Agile
+Technologies & Frameworks: Vue.js, TensorFlow, SQL, Power BI
+
+WORK EXPERIENCE
+
+DevOps Engineer
+Zoom
+2020 - 2023 (3 years)
+• Developed and maintained software applications using Node.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Data Science for improved performance
+
+PROJECTS
+• Built a web application using HTML and SQL
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

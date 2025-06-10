@@ -1,0 +1,33 @@
+Daniel Martinez
+Email: daniel.martinez@email.com
+Phone: +1-269-765-1028
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 5 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+UC Berkeley
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: MacOS, MongoDB, Node.js, Windows, React, Excel
+Technologies & Frameworks: Jenkins, Data Science, AWS, JIRA, GraphQL
+
+WORK EXPERIENCE
+
+Senior Software Engineer
+Google
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Node.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Windows for improved performance
+
+PROJECTS
+• Built a web application using Windows and React
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+David Brown
+Email: david.brown@email.com
+Phone: +1-749-895-7168
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer with 1 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Machine Learning
+Purdue University
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: CSS, JIRA, HTML, JavaScript, React, Flask
+Technologies & Frameworks: TensorFlow, AWS, Agile, Docker, PyTorch, Spring Boot
+
+WORK EXPERIENCE
+
+Cloud Engineer
+Uber
+2023 - 2024 (1 years)
+• Developed and maintained software applications using CSS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented JavaScript for improved performance
+
+PROJECTS
+• Built a web application using TensorFlow and PyTorch
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

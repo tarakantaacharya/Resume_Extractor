@@ -1,0 +1,33 @@
+Michael Jones
+Email: michael.jones@email.com
+Phone: +1-253-171-1953
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer with 8 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+University of Washington
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: CSS, Django, REST API, Excel, Scrum, Azure
+Technologies & Frameworks: Pandas, MacOS, Bootstrap
+
+WORK EXPERIENCE
+
+Cloud Engineer
+IBM
+2016 - 2019 (3 years)
+• Developed and maintained software applications using REST API
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Scrum for improved performance
+
+PROJECTS
+• Built a web application using Excel and REST API
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+Lisa Garcia
+Email: lisa.garcia@email.com
+Phone: +1-548-564-3260
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 3 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+Ohio State University
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: Excel, Agile, PowerShell, AWS, MacOS, Spring Boot
+Technologies & Frameworks: Django
+
+WORK EXPERIENCE
+
+Full Stack Developer
+Oracle
+2021 - 2023 (2 years)
+• Developed and maintained software applications using PowerShell
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Spring Boot for improved performance
+
+PROJECTS
+• Built a web application using Spring Boot and PowerShell
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

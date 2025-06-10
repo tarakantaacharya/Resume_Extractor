@@ -1,0 +1,33 @@
+John Martinez
+Email: john.martinez@email.com
+Phone: +1-202-244-3510
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 1 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Machine Learning
+University of Michigan
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: MacOS, CSS, GraphQL, TensorFlow, Git, Vue.js
+Technologies & Frameworks: Bash, Angular
+
+WORK EXPERIENCE
+
+AI Engineer
+Twitter
+2023 - 2024 (1 years)
+• Developed and maintained software applications using CSS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Vue.js for improved performance
+
+PROJECTS
+• Built a web application using CSS and CSS
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

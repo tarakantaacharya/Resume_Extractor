@@ -1,0 +1,33 @@
+James Williams
+Email: james.williams@email.com
+Phone: +1-586-752-2719
+
+PROFESSIONAL SUMMARY
+Experienced Product Manager with 5 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+Princeton University
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: CSS, Windows, Deep Learning, REST API, Django, Angular
+Technologies & Frameworks: MacOS, Microservices, Machine Learning, JavaScript, Vue.js
+
+WORK EXPERIENCE
+
+Product Manager
+Intel
+2019 - 2020 (1 years)
+• Developed and maintained software applications using CSS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Django for improved performance
+
+PROJECTS
+• Built a web application using Windows and Windows
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

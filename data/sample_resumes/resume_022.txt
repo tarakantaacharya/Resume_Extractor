@@ -1,0 +1,33 @@
+Jessica Jones
+Email: jessica.jones@email.com
+Phone: +1-739-466-8647
+
+PROFESSIONAL SUMMARY
+Experienced Software Architect with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Artificial Intelligence
+Columbia University
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: Tableau, Pandas, JIRA, PostgreSQL, Bootstrap, Python
+Technologies & Frameworks: Jenkins, Scikit-learn
+
+WORK EXPERIENCE
+
+Software Architect
+LinkedIn
+2022 - 2024 (2 years)
+• Developed and maintained software applications using JIRA
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PostgreSQL for improved performance
+
+PROJECTS
+• Built a web application using PostgreSQL and Tableau
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

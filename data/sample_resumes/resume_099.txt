@@ -1,0 +1,33 @@
+James Jones
+Email: james.jones@email.com
+Phone: +1-797-764-4725
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 8 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+UCLA
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Flask, PostgreSQL, Data Science, Git, Pandas, PyTorch
+Technologies & Frameworks: TensorFlow, JIRA, Python, Scrum
+
+WORK EXPERIENCE
+
+Frontend Developer
+Netflix
+2016 - 2019 (3 years)
+• Developed and maintained software applications using Data Science
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Pandas for improved performance
+
+PROJECTS
+• Built a web application using Pandas and Git
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

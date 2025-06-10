@@ -1,0 +1,33 @@
+John Davis
+Email: john.davis@email.com
+Phone: +1-805-311-7887
+
+PROFESSIONAL SUMMARY
+Experienced Data Analyst with 2 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+Carnegie Mellon
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: Jenkins, Scrum, MongoDB, Spring Boot, Linux, Excel
+Technologies & Frameworks: Deep Learning, AWS, Scikit-learn, Tableau, Node.js, HTML
+
+WORK EXPERIENCE
+
+Data Analyst
+Zoom
+2022 - 2024 (2 years)
+• Developed and maintained software applications using MongoDB
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Excel for improved performance
+
+PROJECTS
+• Built a web application using Linux and Scrum
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

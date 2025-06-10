@@ -1,0 +1,33 @@
+Emily Davis
+Email: emily.davis@email.com
+Phone: +1-393-633-5640
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 2 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+Cornell University
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Agile, PostgreSQL, JIRA, Kubernetes, AWS, Scikit-learn
+Technologies & Frameworks: Microservices, GraphQL, PowerShell
+
+WORK EXPERIENCE
+
+Data Scientist
+Facebook
+2022 - 2024 (2 years)
+• Developed and maintained software applications using PostgreSQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented AWS for improved performance
+
+PROJECTS
+• Built a web application using AWS and Agile
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

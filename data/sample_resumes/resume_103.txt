@@ -1,0 +1,33 @@
+Matthew Garcia
+Email: matthew.garcia@email.com
+Phone: +1-564-456-1099
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 1 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Computer Science
+Princeton University
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Docker, Agile, PostgreSQL, Python, Scikit-learn, HTML
+Technologies & Frameworks: PyTorch
+
+WORK EXPERIENCE
+
+DevOps Engineer
+GitHub
+2023 - 2024 (1 years)
+• Developed and maintained software applications using PostgreSQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Scikit-learn for improved performance
+
+PROJECTS
+• Built a web application using Scikit-learn and Python
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

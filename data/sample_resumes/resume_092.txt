@@ -1,0 +1,40 @@
+Jennifer Rodriguez
+Email: jennifer.rodriguez@email.com
+Phone: +1-768-602-7493
+
+PROFESSIONAL SUMMARY
+Experienced Product Manager with 2 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+University of Washington
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Java, NumPy, HTML, C++, Azure, TensorFlow
+Technologies & Frameworks: PyTorch, Vue.js, Deep Learning, Scikit-learn
+
+WORK EXPERIENCE
+
+Product Manager
+Twitter
+2022 - 2023 (1 years)
+• Developed and maintained software applications using NumPy
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented TensorFlow for improved performance
+
+Product Manager
+PayPal
+2023 - 2024 (1 years)
+• Developed and maintained software applications using NumPy
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented TensorFlow for improved performance
+
+PROJECTS
+• Built a web application using PyTorch and NumPy
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

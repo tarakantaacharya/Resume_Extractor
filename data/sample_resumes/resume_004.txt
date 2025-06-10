@@ -1,0 +1,33 @@
+Amanda Anderson
+Email: amanda.anderson@email.com
+Phone: +1-855-596-7586
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Artificial Intelligence
+University of Texas at Austin
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Azure, TensorFlow, Scrum, Tableau, PyTorch, AWS
+Technologies & Frameworks: Deep Learning, Docker, PostgreSQL, Java
+
+WORK EXPERIENCE
+
+AI Engineer
+PayPal
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Scrum
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented AWS for improved performance
+
+PROJECTS
+• Built a web application using PyTorch and Deep Learning
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

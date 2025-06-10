@@ -1,0 +1,33 @@
+Ashley Johnson
+Email: ashley.johnson@email.com
+Phone: +1-774-884-3051
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 2 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Information Technology
+Carnegie Mellon
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: Data Science, Machine Learning, Deep Learning, Spring Boot, Agile, Bash
+Technologies & Frameworks: CSS
+
+WORK EXPERIENCE
+
+Technical Lead
+Slack
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Data Science
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Bash for improved performance
+
+PROJECTS
+• Built a web application using Machine Learning and Spring Boot
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

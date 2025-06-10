@@ -1,0 +1,33 @@
+Jennifer Davis
+Email: jennifer.davis@email.com
+Phone: +1-672-946-6518
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 3 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Information Technology
+University of Michigan
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, PyTorch, Pandas, Spring Boot, Azure, Agile
+Technologies & Frameworks: Data Science, Power BI, Node.js, REST API
+
+WORK EXPERIENCE
+
+Full Stack Developer
+GitHub
+2021 - 2024 (3 years)
+• Developed and maintained software applications using PyTorch
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Agile for improved performance
+
+PROJECTS
+• Built a web application using Agile and MongoDB
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

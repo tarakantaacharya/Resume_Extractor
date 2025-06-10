@@ -1,0 +1,33 @@
+John Garcia
+Email: john.garcia@email.com
+Phone: +1-731-324-2860
+
+PROFESSIONAL SUMMARY
+Experienced QA Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+University of Texas at Austin
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, JavaScript, Docker, Kubernetes, Jenkins, Power BI
+Technologies & Frameworks: Git, JIRA, Django, Deep Learning
+
+WORK EXPERIENCE
+
+QA Engineer
+Adobe
+2020 - 2023 (3 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Power BI for improved performance
+
+PROJECTS
+• Built a web application using MongoDB and Django
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

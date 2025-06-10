@@ -1,0 +1,33 @@
+Mary Miller
+Email: mary.miller@email.com
+Phone: +1-883-824-8979
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 5 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Machine Learning
+University of Washington
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Agile, NumPy, Git, AWS, JavaScript, Flask
+Technologies & Frameworks: CSS, TensorFlow, Pandas, Kubernetes
+
+WORK EXPERIENCE
+
+Backend Developer
+NVIDIA
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Agile
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented JavaScript for improved performance
+
+PROJECTS
+• Built a web application using Pandas and CSS
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

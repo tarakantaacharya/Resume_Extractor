@@ -1,0 +1,40 @@
+Amanda Anderson
+Email: amanda.anderson@email.com
+Phone: +1-801-363-7131
+
+PROFESSIONAL SUMMARY
+Experienced Product Manager with 4 years of experience in software development and technology.
+
+EDUCATION
+MBA
+MIT
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: Node.js, Azure, Python, Git, JavaScript, PowerShell
+Technologies & Frameworks: C++
+
+WORK EXPERIENCE
+
+Product Manager
+Spotify
+2020 - 2022 (2 years)
+• Developed and maintained software applications using Node.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Git for improved performance
+
+Product Manager
+Airbnb
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Python
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PowerShell for improved performance
+
+PROJECTS
+• Built a web application using Git and Git
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

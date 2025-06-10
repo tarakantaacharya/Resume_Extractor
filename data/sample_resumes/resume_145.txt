@@ -1,0 +1,40 @@
+Sarah Jones
+Email: sarah.jones@email.com
+Phone: +1-280-573-7031
+
+PROFESSIONAL SUMMARY
+Experienced Data Analyst with 4 years of experience in software development and technology.
+
+EDUCATION
+MBA
+UCLA
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: TensorFlow, Flask, Git, Data Science, MacOS, Excel
+Technologies & Frameworks: JavaScript, Machine Learning, Bootstrap
+
+WORK EXPERIENCE
+
+Data Analyst
+Airbnb
+2020 - 2022 (2 years)
+• Developed and maintained software applications using Git
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Excel for improved performance
+
+Data Analyst
+Slack
+2022 - 2024 (2 years)
+• Developed and maintained software applications using TensorFlow
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Excel for improved performance
+
+PROJECTS
+• Built a web application using MacOS and Machine Learning
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

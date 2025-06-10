@@ -1,0 +1,33 @@
+Elizabeth Rodriguez
+Email: elizabeth.rodriguez@email.com
+Phone: +1-486-413-9805
+
+PROFESSIONAL SUMMARY
+Experienced QA Engineer with 5 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+Purdue University
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Microservices, Deep Learning, CSS, Scikit-learn, Machine Learning, PowerShell
+Technologies & Frameworks: SQL, Spring Boot, Linux
+
+WORK EXPERIENCE
+
+QA Engineer
+Yahoo
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Microservices
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Machine Learning for improved performance
+
+PROJECTS
+• Built a web application using CSS and PowerShell
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

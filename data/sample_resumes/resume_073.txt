@@ -1,0 +1,40 @@
+Daniel Davis
+Email: daniel.davis@email.com
+Phone: +1-647-822-2399
+
+PROFESSIONAL SUMMARY
+Experienced Mobile Developer with 4 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+University of Washington
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Scrum, AWS, Kubernetes, CSS, MacOS, PostgreSQL
+Technologies & Frameworks: GraphQL, C++, Python, Git
+
+WORK EXPERIENCE
+
+Mobile Developer
+Microsoft
+2020 - 2021 (1 years)
+• Developed and maintained software applications using Scrum
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PostgreSQL for improved performance
+
+Mobile Developer
+Facebook
+2021 - 2024 (3 years)
+• Developed and maintained software applications using AWS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented CSS for improved performance
+
+PROJECTS
+• Built a web application using Git and PostgreSQL
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

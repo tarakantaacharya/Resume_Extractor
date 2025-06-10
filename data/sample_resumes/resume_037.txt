@@ -1,0 +1,47 @@
+Emily Garcia
+Email: emily.garcia@email.com
+Phone: +1-125-663-7992
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 6 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+Ohio State University
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: Jenkins, Linux, Flask, PostgreSQL, Scrum
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+DevOps Engineer
+Apple
+2018 - 2020 (2 years)
+• Developed and maintained software applications using Jenkins
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PostgreSQL for improved performance
+
+DevOps Engineer
+Zoom
+2020 - 2022 (2 years)
+• Developed and maintained software applications using Flask
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Scrum for improved performance
+
+DevOps Engineer
+Facebook
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Flask
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PostgreSQL for improved performance
+
+PROJECTS
+• Built a web application using PostgreSQL and Linux
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

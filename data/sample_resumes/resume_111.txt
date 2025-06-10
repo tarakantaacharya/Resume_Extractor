@@ -1,0 +1,33 @@
+James Jones
+Email: james.jones@email.com
+Phone: +1-973-931-8029
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+Stanford University
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: Python, NumPy, JIRA, Scrum, PostgreSQL, Deep Learning
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+AI Engineer
+LinkedIn
+2022 - 2024 (2 years)
+• Developed and maintained software applications using JIRA
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PostgreSQL for improved performance
+
+PROJECTS
+• Built a web application using Python and Scrum
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

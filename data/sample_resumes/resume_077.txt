@@ -1,0 +1,47 @@
+Sarah Jones
+Email: sarah.jones@email.com
+Phone: +1-653-602-2961
+
+PROFESSIONAL SUMMARY
+Experienced Data Analyst with 5 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+UC Berkeley
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: Deep Learning, Pandas, JavaScript, Kubernetes, PyTorch, Django
+Technologies & Frameworks: Node.js, TensorFlow, Tableau, Excel
+
+WORK EXPERIENCE
+
+Data Analyst
+Oracle
+2019 - 2020 (1 years)
+• Developed and maintained software applications using Pandas
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PyTorch for improved performance
+
+Data Analyst
+Google
+2020 - 2023 (3 years)
+• Developed and maintained software applications using Pandas
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Kubernetes for improved performance
+
+Data Analyst
+Adobe
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Pandas
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Kubernetes for improved performance
+
+PROJECTS
+• Built a web application using Pandas and Deep Learning
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

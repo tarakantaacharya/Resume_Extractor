@@ -1,0 +1,40 @@
+Ashley Rodriguez
+Email: ashley.rodriguez@email.com
+Phone: +1-987-237-4424
+
+PROFESSIONAL SUMMARY
+Experienced Product Manager with 7 years of experience in software development and technology.
+
+EDUCATION
+Ph.D. in Computer Science
+Purdue University
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: NumPy, Tableau, PostgreSQL, React, REST API, Microservices
+Technologies & Frameworks: Power BI, Scikit-learn, Python, Angular, PowerShell
+
+WORK EXPERIENCE
+
+Product Manager
+Docker
+2017 - 2020 (3 years)
+• Developed and maintained software applications using Tableau
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Microservices for improved performance
+
+Product Manager
+Salesforce
+2020 - 2021 (1 years)
+• Developed and maintained software applications using NumPy
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented REST API for improved performance
+
+PROJECTS
+• Built a web application using Microservices and PowerShell
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,40 @@
+William Miller
+Email: william.miller@email.com
+Phone: +1-952-285-7366
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+Georgia Tech
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, React, Linux, Excel, Git
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Cloud Engineer
+Spotify
+2020 - 2022 (2 years)
+• Developed and maintained software applications using React
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Excel for improved performance
+
+Cloud Engineer
+Atlassian
+2022 - 2024 (2 years)
+• Developed and maintained software applications using React
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Excel for improved performance
+
+PROJECTS
+• Built a web application using React and React
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

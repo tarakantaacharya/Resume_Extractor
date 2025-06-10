@@ -1,0 +1,33 @@
+Matthew Miller
+Email: matthew.miller@email.com
+Phone: +1-716-954-4517
+
+PROFESSIONAL SUMMARY
+Experienced QA Engineer with 2 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+Carnegie Mellon
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: Java, Vue.js, Excel, Pandas, Bootstrap, Spring Boot
+Technologies & Frameworks: MongoDB
+
+WORK EXPERIENCE
+
+QA Engineer
+Microsoft
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Excel
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Spring Boot for improved performance
+
+PROJECTS
+• Built a web application using MongoDB and Excel
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

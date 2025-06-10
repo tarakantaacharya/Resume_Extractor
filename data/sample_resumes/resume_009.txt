@@ -1,0 +1,33 @@
+Michael Brown
+Email: michael.brown@email.com
+Phone: +1-576-715-4784
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+MBA
+Carnegie Mellon
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Scrum, Microservices, JIRA, Tableau, Jenkins
+Technologies & Frameworks: Data Science, GraphQL, Machine Learning, PyTorch, Windows, TensorFlow
+
+WORK EXPERIENCE
+
+DevOps Engineer
+IBM
+2020 - 2021 (1 years)
+• Developed and maintained software applications using PowerShell
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Tableau for improved performance
+
+PROJECTS
+• Built a web application using Machine Learning and Scrum
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

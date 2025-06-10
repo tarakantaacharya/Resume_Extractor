@@ -1,0 +1,40 @@
+John Smith
+Email: john.smith@email.com
+Phone: +1-430-777-9294
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 5 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Electronics
+Georgia Tech
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, NumPy, Linux, Node.js, React, Jenkins
+Technologies & Frameworks: Kubernetes
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+eBay
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Linux
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented React for improved performance
+
+Machine Learning Engineer
+Apple
+2022 - 2023 (1 years)
+• Developed and maintained software applications using NumPy
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Jenkins for improved performance
+
+PROJECTS
+• Built a web application using JavaScript and Kubernetes
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

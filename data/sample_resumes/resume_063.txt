@@ -1,0 +1,40 @@
+Mary Martinez
+Email: mary.martinez@email.com
+Phone: +1-999-190-9587
+
+PROFESSIONAL SUMMARY
+Experienced Data Analyst with 7 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Electronics
+Purdue University
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, Python, MacOS, NumPy, PyTorch, Scikit-learn
+Technologies & Frameworks: Jenkins
+
+WORK EXPERIENCE
+
+Data Analyst
+Twitter
+2017 - 2019 (2 years)
+• Developed and maintained software applications using Python
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented NumPy for improved performance
+
+Data Analyst
+Yahoo
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Python
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented NumPy for improved performance
+
+PROJECTS
+• Built a web application using NumPy and Scikit-learn
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

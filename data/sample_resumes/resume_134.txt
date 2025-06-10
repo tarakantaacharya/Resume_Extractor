@@ -1,0 +1,40 @@
+David Martinez
+Email: david.martinez@email.com
+Phone: +1-667-833-7294
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+University of Michigan
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: Microservices, Java, Scikit-learn, Linux, Scrum, JavaScript
+Technologies & Frameworks: Pandas, React, HTML
+
+WORK EXPERIENCE
+
+Software Engineer
+Cisco
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Microservices
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented JavaScript for improved performance
+
+Software Engineer
+GitLab
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Microservices
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Linux for improved performance
+
+PROJECTS
+• Built a web application using React and Scrum
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

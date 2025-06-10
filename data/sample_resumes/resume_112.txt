@@ -1,0 +1,33 @@
+Robert Garcia
+Email: robert.garcia@email.com
+Phone: +1-710-579-4753
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 4 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+MIT
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Data Science, Kubernetes, Jenkins, Java, HTML, JIRA
+Technologies & Frameworks: Scikit-learn, Deep Learning
+
+WORK EXPERIENCE
+
+Full Stack Developer
+Netflix
+2020 - 2021 (1 years)
+• Developed and maintained software applications using Kubernetes
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Java for improved performance
+
+PROJECTS
+• Built a web application using HTML and Scikit-learn
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,40 @@
+Christopher Johnson
+Email: christopher.johnson@email.com
+Phone: +1-353-386-9536
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+MBA
+Georgia Tech
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: PowerShell, Scikit-learn, Docker, MongoDB, Bootstrap, PostgreSQL
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Netflix
+2020 - 2023 (3 years)
+• Developed and maintained software applications using Scikit-learn
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PostgreSQL for improved performance
+
+Machine Learning Engineer
+NVIDIA
+2023 - 2024 (1 years)
+• Developed and maintained software applications using PowerShell
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PostgreSQL for improved performance
+
+PROJECTS
+• Built a web application using PowerShell and PostgreSQL
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

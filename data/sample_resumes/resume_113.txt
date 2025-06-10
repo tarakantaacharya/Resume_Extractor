@@ -1,0 +1,33 @@
+Amanda Davis
+Email: amanda.davis@email.com
+Phone: +1-825-444-5686
+
+PROFESSIONAL SUMMARY
+Experienced Product Manager with 6 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+Ohio State University
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: Excel, Data Science, Deep Learning, Node.js, MacOS, Spring Boot
+Technologies & Frameworks: Pandas, Flask, MongoDB, Microservices
+
+WORK EXPERIENCE
+
+Product Manager
+Slack
+2018 - 2021 (3 years)
+• Developed and maintained software applications using Deep Learning
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Spring Boot for improved performance
+
+PROJECTS
+• Built a web application using MongoDB and Data Science
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

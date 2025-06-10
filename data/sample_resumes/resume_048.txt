@@ -1,0 +1,40 @@
+Daniel Rodriguez
+Email: daniel.rodriguez@email.com
+Phone: +1-908-349-1660
+
+PROFESSIONAL SUMMARY
+Experienced Data Analyst with 5 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+Carnegie Mellon
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Machine Learning, Spring Boot, PyTorch, PowerShell, AWS
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Data Analyst
+MongoDB
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Machine Learning
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PowerShell for improved performance
+
+Data Analyst
+Spotify
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Spring Boot
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented AWS for improved performance
+
+PROJECTS
+• Built a web application using PyTorch and AWS
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,40 @@
+James Jones
+Email: james.jones@email.com
+Phone: +1-736-687-3488
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+Purdue University
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Kubernetes, Python, Scrum, React, C++, Pandas
+Technologies & Frameworks: MacOS, MongoDB, PowerShell
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+VMware
+2020 - 2022 (2 years)
+• Developed and maintained software applications using Python
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Pandas for improved performance
+
+Machine Learning Engineer
+Adobe
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Python
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented React for improved performance
+
+PROJECTS
+• Built a web application using Scrum and React
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

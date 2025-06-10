@@ -1,0 +1,33 @@
+James Johnson
+Email: james.johnson@email.com
+Phone: +1-221-103-3901
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 1 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+University of Michigan
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: Spring Boot, Linux, Deep Learning, Bash, Flask, PostgreSQL
+Technologies & Frameworks: Java, Pandas, Git, Power BI, Data Science, Python
+
+WORK EXPERIENCE
+
+AI Engineer
+Microsoft
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Linux
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Flask for improved performance
+
+PROJECTS
+• Built a web application using Bash and Power BI
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

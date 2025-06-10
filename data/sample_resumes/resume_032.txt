@@ -1,0 +1,33 @@
+Daniel Rodriguez
+Email: daniel.rodriguez@email.com
+Phone: +1-251-893-1778
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 1 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+University of Washington
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: AWS, Django, Power BI, Bash, JavaScript, HTML
+Technologies & Frameworks: Python, Java, Scrum, Node.js, PostgreSQL
+
+WORK EXPERIENCE
+
+Frontend Developer
+Uber
+2023 - 2024 (1 years)
+• Developed and maintained software applications using AWS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented HTML for improved performance
+
+PROJECTS
+• Built a web application using Python and PostgreSQL
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

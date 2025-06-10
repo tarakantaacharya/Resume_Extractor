@@ -1,0 +1,33 @@
+Mary Martinez
+Email: mary.martinez@email.com
+Phone: +1-254-177-2176
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 7 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+University of Texas at Austin
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: GraphQL, Angular, Jenkins, Kubernetes, HTML, MongoDB
+Technologies & Frameworks: JIRA, Spring Boot, Scikit-learn, Node.js, C++
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Tesla
+2017 - 2018 (1 years)
+• Developed and maintained software applications using Jenkins
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MongoDB for improved performance
+
+PROJECTS
+• Built a web application using Node.js and GraphQL
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

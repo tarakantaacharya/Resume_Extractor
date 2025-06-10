@@ -1,0 +1,33 @@
+Matthew Thomas
+Email: matthew.thomas@email.com
+Phone: +1-115-102-8735
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 1 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+Ohio State University
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: Jenkins, Java, JIRA, NumPy, Data Science, GraphQL
+Technologies & Frameworks: REST API, PyTorch
+
+WORK EXPERIENCE
+
+AI Engineer
+GitLab
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Java
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented NumPy for improved performance
+
+PROJECTS
+• Built a web application using JIRA and Jenkins
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+John Rodriguez
+Email: john.rodriguez@email.com
+Phone: +1-124-187-4571
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 5 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Artificial Intelligence
+Purdue University
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: SQL, MacOS, Scikit-learn, Agile, Docker, Azure
+Technologies & Frameworks: Flask, Kubernetes, PyTorch, Data Science
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Yahoo
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Scikit-learn
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Azure for improved performance
+
+PROJECTS
+• Built a web application using Data Science and MacOS
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

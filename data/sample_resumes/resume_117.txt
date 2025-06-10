@@ -1,0 +1,47 @@
+Lisa Rodriguez
+Email: lisa.rodriguez@email.com
+Phone: +1-338-331-5183
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 8 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+Penn State
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: Scikit-learn, Django, JavaScript, NumPy, Docker, Git
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Full Stack Developer
+Docker
+2016 - 2017 (1 years)
+• Developed and maintained software applications using JavaScript
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Git for improved performance
+
+Full Stack Developer
+Spotify
+2017 - 2020 (3 years)
+• Developed and maintained software applications using JavaScript
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented NumPy for improved performance
+
+Full Stack Developer
+Apple
+2020 - 2022 (2 years)
+• Developed and maintained software applications using JavaScript
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented NumPy for improved performance
+
+PROJECTS
+• Built a web application using JavaScript and NumPy
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

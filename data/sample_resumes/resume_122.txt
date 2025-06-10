@@ -1,0 +1,40 @@
+Jennifer Martinez
+Email: jennifer.martinez@email.com
+Phone: +1-690-413-5264
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 8 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+Columbia University
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Agile, Data Science, Linux, HTML, PowerShell, Windows
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Frontend Developer
+Google
+2016 - 2017 (1 years)
+• Developed and maintained software applications using Data Science
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented HTML for improved performance
+
+Frontend Developer
+Spotify
+2017 - 2019 (2 years)
+• Developed and maintained software applications using Agile
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Windows for improved performance
+
+PROJECTS
+• Built a web application using Agile and Linux
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

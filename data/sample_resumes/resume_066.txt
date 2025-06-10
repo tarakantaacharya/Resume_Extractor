@@ -1,0 +1,33 @@
+Joseph Brown
+Email: joseph.brown@email.com
+Phone: +1-638-450-1048
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 8 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Computer Science
+University of Florida
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Pandas, Flask, Data Science, MongoDB, AWS, NumPy
+Technologies & Frameworks: Bootstrap, Deep Learning, Microservices, SQL
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Tesla
+2016 - 2017 (1 years)
+• Developed and maintained software applications using Pandas
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MongoDB for improved performance
+
+PROJECTS
+• Built a web application using Data Science and NumPy
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

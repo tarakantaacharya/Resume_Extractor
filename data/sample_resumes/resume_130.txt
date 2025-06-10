@@ -1,0 +1,33 @@
+Sarah Jones
+Email: sarah.jones@email.com
+Phone: +1-467-509-7547
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 2 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Electronics
+Carnegie Mellon
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: TensorFlow, Windows, C++, Data Science, PowerShell, REST API
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+DevOps Engineer
+Dropbox
+2022 - 2023 (1 years)
+• Developed and maintained software applications using TensorFlow
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented REST API for improved performance
+
+PROJECTS
+• Built a web application using PowerShell and Windows
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

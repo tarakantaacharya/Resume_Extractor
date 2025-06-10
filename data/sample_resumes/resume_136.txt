@@ -1,0 +1,33 @@
+Emily Martinez
+Email: emily.martinez@email.com
+Phone: +1-277-454-8293
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 7 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+Columbia University
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, Vue.js, PyTorch, Kubernetes, Power BI, HTML
+Technologies & Frameworks: React, Node.js, PowerShell
+
+WORK EXPERIENCE
+
+AI Engineer
+Zoom
+2017 - 2020 (3 years)
+• Developed and maintained software applications using PyTorch
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Kubernetes for improved performance
+
+PROJECTS
+• Built a web application using Kubernetes and PyTorch
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

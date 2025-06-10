@@ -1,0 +1,33 @@
+David Rodriguez
+Email: david.rodriguez@email.com
+Phone: +1-181-529-3128
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 1 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+Carnegie Mellon
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: Excel, MacOS, Machine Learning, Azure, Agile, Scrum
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+DevOps Engineer
+IBM
+2023 - 2024 (1 years)
+• Developed and maintained software applications using MacOS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Scrum for improved performance
+
+PROJECTS
+• Built a web application using Excel and Machine Learning
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+Michael Brown
+Email: michael.brown@email.com
+Phone: +1-990-973-9813
+
+PROFESSIONAL SUMMARY
+Experienced Mobile Developer with 3 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+Stanford University
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: Linux, CSS, Bash, Windows, Spring Boot, Pandas
+Technologies & Frameworks: GraphQL, Jenkins, TensorFlow, Machine Learning, Bootstrap, PostgreSQL
+
+WORK EXPERIENCE
+
+Mobile Developer
+NVIDIA
+2021 - 2024 (3 years)
+• Developed and maintained software applications using Linux
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Spring Boot for improved performance
+
+PROJECTS
+• Built a web application using GraphQL and Machine Learning
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

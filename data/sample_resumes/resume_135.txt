@@ -1,0 +1,33 @@
+John Rodriguez
+Email: john.rodriguez@email.com
+Phone: +1-870-820-7414
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 6 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Electronics
+Georgia Tech
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Jenkins, Flask, Data Science, Angular, Pandas, PyTorch
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Frontend Developer
+Cisco
+2018 - 2021 (3 years)
+• Developed and maintained software applications using Flask
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PyTorch for improved performance
+
+PROJECTS
+• Built a web application using Jenkins and Jenkins
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+Matthew Jones
+Email: matthew.jones@email.com
+Phone: +1-703-382-5771
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 1 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+Yale University
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: Kubernetes, PowerShell, Agile, Django, Bootstrap, NumPy
+Technologies & Frameworks: C++, React, Angular, Jenkins, JIRA, MacOS
+
+WORK EXPERIENCE
+
+Technical Lead
+Atlassian
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Agile
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Bootstrap for improved performance
+
+PROJECTS
+• Built a web application using Agile and JIRA
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+David Miller
+Email: david.miller@email.com
+Phone: +1-366-145-1166
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 2 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Mathematics
+Harvard University
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: PyTorch, NumPy, C++, Scrum, Kubernetes, Azure
+Technologies & Frameworks: Machine Learning, Vue.js, Bootstrap
+
+WORK EXPERIENCE
+
+Backend Developer
+NVIDIA
+2022 - 2024 (2 years)
+• Developed and maintained software applications using C++
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Kubernetes for improved performance
+
+PROJECTS
+• Built a web application using C++ and Bootstrap
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

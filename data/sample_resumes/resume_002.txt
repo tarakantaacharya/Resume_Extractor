@@ -1,0 +1,33 @@
+Elizabeth Robinson
+Email: elizabeth.robinson@email.com
+Phone: +1-338-353-9754
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 1 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Artificial Intelligence
+Columbia University
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: JIRA, Django, Tableau, Vue.js, Node.js, Kubernetes
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Frontend Developer
+Microsoft
+2023 - 2024 (1 years)
+• Developed and maintained software applications using JIRA
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Vue.js for improved performance
+
+PROJECTS
+• Built a web application using Kubernetes and Tableau
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,47 @@
+Robert Davis
+Email: robert.davis@email.com
+Phone: +1-299-643-4913
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 7 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Artificial Intelligence
+Princeton University
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: C++, Django, Machine Learning, Jenkins, Power BI
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+DevOps Engineer
+Netflix
+2017 - 2018 (1 years)
+• Developed and maintained software applications using Django
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Power BI for improved performance
+
+DevOps Engineer
+MongoDB
+2018 - 2019 (1 years)
+• Developed and maintained software applications using Django
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Jenkins for improved performance
+
+DevOps Engineer
+Twitter
+2019 - 2020 (1 years)
+• Developed and maintained software applications using Django
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Power BI for improved performance
+
+PROJECTS
+• Built a web application using C++ and Power BI
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

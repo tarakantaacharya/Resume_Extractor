@@ -1,0 +1,40 @@
+Christopher Davis
+Email: christopher.davis@email.com
+Phone: +1-709-510-9498
+
+PROFESSIONAL SUMMARY
+Experienced Data Analyst with 5 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Information Technology
+Yale University
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: C++, Git, TensorFlow, Agile, Spring Boot, Excel
+Technologies & Frameworks: MongoDB, Kubernetes, JIRA, Linux, Scikit-learn, MacOS
+
+WORK EXPERIENCE
+
+Data Analyst
+MongoDB
+2019 - 2020 (1 years)
+• Developed and maintained software applications using C++
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Spring Boot for improved performance
+
+Data Analyst
+Amazon
+2020 - 2023 (3 years)
+• Developed and maintained software applications using Git
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Agile for improved performance
+
+PROJECTS
+• Built a web application using C++ and JIRA
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

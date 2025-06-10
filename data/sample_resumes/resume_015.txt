@@ -1,0 +1,33 @@
+Jessica Miller
+Email: jessica.miller@email.com
+Phone: +1-797-299-9057
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 3 years of experience in software development and technology.
+
+EDUCATION
+MBA
+University of Texas at Austin
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: AWS, Vue.js, Windows, Java, Flask, Power BI
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Data Scientist
+Spotify
+2021 - 2023 (2 years)
+• Developed and maintained software applications using Vue.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Flask for improved performance
+
+PROJECTS
+• Built a web application using Power BI and AWS
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+Joseph Williams
+Email: joseph.williams@email.com
+Phone: +1-514-366-7530
+
+PROFESSIONAL SUMMARY
+Experienced Data Analyst with 1 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+UC Berkeley
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Tableau, Windows, Flask, Python, HTML, Agile
+Technologies & Frameworks: Kubernetes, Docker, CSS, MongoDB, Pandas, Scrum
+
+WORK EXPERIENCE
+
+Data Analyst
+VMware
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Windows
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented HTML for improved performance
+
+PROJECTS
+• Built a web application using Docker and Agile
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

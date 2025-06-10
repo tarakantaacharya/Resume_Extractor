@@ -1,0 +1,40 @@
+Sarah Williams
+Email: sarah.williams@email.com
+Phone: +1-119-797-7858
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 8 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Engineering
+University of Michigan
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Bash, Microservices, React, Excel, Docker, Django
+Technologies & Frameworks: PostgreSQL, SQL
+
+WORK EXPERIENCE
+
+Backend Developer
+PayPal
+2016 - 2019 (3 years)
+• Developed and maintained software applications using Microservices
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Docker for improved performance
+
+Backend Developer
+Salesforce
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Microservices
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Django for improved performance
+
+PROJECTS
+• Built a web application using Excel and PostgreSQL
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,47 @@
+Lisa Thompson
+Email: lisa.thompson@email.com
+Phone: +1-368-665-6467
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 3 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Computer Science
+Harvard University
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: React, AWS, Angular, C++, MacOS, Docker
+Technologies & Frameworks: Deep Learning, REST API, Microservices
+
+WORK EXPERIENCE
+
+AI Engineer
+Intel
+2021 - 2022 (1 years)
+• Developed and maintained software applications using AWS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented C++ for improved performance
+
+AI Engineer
+Zoom
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Angular
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented C++ for improved performance
+
+AI Engineer
+Google
+2023 - 2024 (1 years)
+• Developed and maintained software applications using AWS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MacOS for improved performance
+
+PROJECTS
+• Built a web application using REST API and Microservices
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

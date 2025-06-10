@@ -1,0 +1,33 @@
+Ashley Davis
+Email: ashley.davis@email.com
+Phone: +1-592-924-6711
+
+PROFESSIONAL SUMMARY
+Experienced Product Manager with 1 years of experience in software development and technology.
+
+EDUCATION
+MBA
+Ohio State University
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, SQL, Vue.js, Docker, Jenkins
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Product Manager
+Yahoo
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Vue.js
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Jenkins for improved performance
+
+PROJECTS
+• Built a web application using Jenkins and Jenkins
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

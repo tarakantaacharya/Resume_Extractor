@@ -1,0 +1,33 @@
+William Garcia
+Email: william.garcia@email.com
+Phone: +1-433-433-7536
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 2 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+Ohio State University
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: SQL, Excel, Jenkins, MongoDB, Node.js, C++
+Technologies & Frameworks: Power BI, TensorFlow, Azure, NumPy, Django, HTML
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Yahoo
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Excel
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MongoDB for improved performance
+
+PROJECTS
+• Built a web application using TensorFlow and Azure
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

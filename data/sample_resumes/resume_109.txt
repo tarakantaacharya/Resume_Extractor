@@ -1,0 +1,40 @@
+Joseph Brown
+Email: joseph.brown@email.com
+Phone: +1-711-932-5876
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer with 6 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Computer Science
+Ohio State University
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: Docker, Django, React, TensorFlow, Scrum, Jenkins
+Technologies & Frameworks: Microservices, PostgreSQL, REST API, Bash
+
+WORK EXPERIENCE
+
+Cloud Engineer
+Slack
+2018 - 2020 (2 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented TensorFlow for improved performance
+
+Cloud Engineer
+Yahoo
+2020 - 2022 (2 years)
+• Developed and maintained software applications using React
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented TensorFlow for improved performance
+
+PROJECTS
+• Built a web application using Jenkins and Scrum
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

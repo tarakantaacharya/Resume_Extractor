@@ -1,0 +1,40 @@
+Christopher Jones
+Email: christopher.jones@email.com
+Phone: +1-260-538-3654
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 4 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+University of Florida
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: CSS, React, Spring Boot, HTML, MongoDB, PyTorch
+Technologies & Frameworks: Jenkins, JIRA, Tableau, Node.js, Data Science, GraphQL
+
+WORK EXPERIENCE
+
+Backend Developer
+Intel
+2020 - 2021 (1 years)
+• Developed and maintained software applications using Spring Boot
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MongoDB for improved performance
+
+Backend Developer
+PayPal
+2021 - 2022 (1 years)
+• Developed and maintained software applications using React
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented PyTorch for improved performance
+
+PROJECTS
+• Built a web application using Spring Boot and MongoDB
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+Matthew Jones
+Email: matthew.jones@email.com
+Phone: +1-673-271-4508
+
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with 3 years of experience in software development and technology.
+
+EDUCATION
+Ph.D. in Computer Science
+UCLA
+Graduated: 2022
+
+TECHNICAL SKILLS
+Programming Languages: Django, Docker, Excel, MacOS, PyTorch, NumPy
+Technologies & Frameworks: Git, CSS, GraphQL, Bash, Python
+
+WORK EXPERIENCE
+
+Software Engineer
+Yahoo
+2021 - 2023 (2 years)
+• Developed and maintained software applications using Excel
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MacOS for improved performance
+
+PROJECTS
+• Built a web application using Django and Docker
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

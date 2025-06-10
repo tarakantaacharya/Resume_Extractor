@@ -1,0 +1,47 @@
+Emily Davis
+Email: emily.davis@email.com
+Phone: +1-997-329-1530
+
+PROFESSIONAL SUMMARY
+Experienced Backend Developer with 7 years of experience in software development and technology.
+
+EDUCATION
+MBA
+Cornell University
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: Linux, MongoDB, Deep Learning, Docker, CSS
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Backend Developer
+Oracle
+2017 - 2018 (1 years)
+• Developed and maintained software applications using MongoDB
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Docker for improved performance
+
+Backend Developer
+Yahoo
+2018 - 2020 (2 years)
+• Developed and maintained software applications using Linux
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented CSS for improved performance
+
+Backend Developer
+Zoom
+2020 - 2022 (2 years)
+• Developed and maintained software applications using Linux
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Docker for improved performance
+
+PROJECTS
+• Built a web application using CSS and MongoDB
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

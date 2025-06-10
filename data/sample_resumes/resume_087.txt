@@ -1,0 +1,33 @@
+Christopher Johnson
+Email: christopher.johnson@email.com
+Phone: +1-373-896-9860
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 8 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Machine Learning
+Purdue University
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: NumPy, Bootstrap, C++, Windows, AWS, Angular
+Technologies & Frameworks: Data Science, Jenkins, Deep Learning, HTML, SQL, Tableau
+
+WORK EXPERIENCE
+
+Full Stack Developer
+Atlassian
+2016 - 2018 (2 years)
+• Developed and maintained software applications using C++
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented AWS for improved performance
+
+PROJECTS
+• Built a web application using C++ and HTML
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

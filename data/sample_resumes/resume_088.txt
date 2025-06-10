@@ -1,0 +1,47 @@
+Ashley Martinez
+Email: ashley.martinez@email.com
+Phone: +1-429-211-6764
+
+PROFESSIONAL SUMMARY
+Experienced Frontend Developer with 8 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+University of Florida
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Windows, GraphQL, Kubernetes, MongoDB, Machine Learning, C++
+Technologies & Frameworks: Excel
+
+WORK EXPERIENCE
+
+Frontend Developer
+Salesforce
+2016 - 2019 (3 years)
+• Developed and maintained software applications using GraphQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Machine Learning for improved performance
+
+Frontend Developer
+Oracle
+2019 - 2022 (3 years)
+• Developed and maintained software applications using GraphQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MongoDB for improved performance
+
+Frontend Developer
+Tesla
+2022 - 2024 (2 years)
+• Developed and maintained software applications using GraphQL
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Machine Learning for improved performance
+
+PROJECTS
+• Built a web application using GraphQL and C++
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+Jessica Miller
+Email: jessica.miller@email.com
+Phone: +1-697-423-1633
+
+PROFESSIONAL SUMMARY
+Experienced Software Architect with 1 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Computer Science
+Carnegie Mellon
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: NumPy, Scrum, Data Science, REST API, Docker, HTML
+Technologies & Frameworks: Python, Microservices
+
+WORK EXPERIENCE
+
+Software Architect
+GitHub
+2023 - 2024 (1 years)
+• Developed and maintained software applications using NumPy
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Docker for improved performance
+
+PROJECTS
+• Built a web application using NumPy and Scrum
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

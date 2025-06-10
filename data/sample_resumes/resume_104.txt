@@ -1,0 +1,40 @@
+Amanda Martinez
+Email: amanda.martinez@email.com
+Phone: +1-692-739-4616
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 8 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Artificial Intelligence
+USC
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: AWS, TensorFlow, Docker, REST API, Pandas, Deep Learning
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+DevOps Engineer
+GitHub
+2016 - 2017 (1 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Deep Learning for improved performance
+
+DevOps Engineer
+Slack
+2017 - 2019 (2 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented REST API for improved performance
+
+PROJECTS
+• Built a web application using TensorFlow and Deep Learning
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

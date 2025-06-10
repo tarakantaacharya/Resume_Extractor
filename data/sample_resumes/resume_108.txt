@@ -1,0 +1,40 @@
+Susan Jones
+Email: susan.jones@email.com
+Phone: +1-337-408-7689
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 7 years of experience in software development and technology.
+
+EDUCATION
+MBA
+Princeton University
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Docker, Data Science, Git, Vue.js
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Technical Lead
+VMware
+2017 - 2019 (2 years)
+• Developed and maintained software applications using Data Science
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Git for improved performance
+
+Technical Lead
+Uber
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Vue.js for improved performance
+
+PROJECTS
+• Built a web application using Git and Data Science
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,33 @@
+Jessica Martinez
+Email: jessica.martinez@email.com
+Phone: +1-196-675-9123
+
+PROFESSIONAL SUMMARY
+Experienced Data Analyst with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Machine Learning
+UC Berkeley
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: JIRA, Docker, Angular, Azure, SQL, MongoDB
+Technologies & Frameworks: Data Science, Deep Learning, Microservices, Scrum
+
+WORK EXPERIENCE
+
+Data Analyst
+Google
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Azure for improved performance
+
+PROJECTS
+• Built a web application using Angular and Scrum
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

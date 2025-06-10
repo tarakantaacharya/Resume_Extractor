@@ -1,0 +1,33 @@
+James Brown
+Email: james.brown@email.com
+Phone: +1-917-153-8751
+
+PROFESSIONAL SUMMARY
+Experienced Data Scientist with 2 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+University of Washington
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: MongoDB, Docker, Agile, JavaScript, Machine Learning, Windows
+Technologies & Frameworks: CSS, Angular, Microservices
+
+WORK EXPERIENCE
+
+Data Scientist
+Adobe
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Windows for improved performance
+
+PROJECTS
+• Built a web application using Docker and Machine Learning
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

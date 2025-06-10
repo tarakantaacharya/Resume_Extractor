@@ -1,0 +1,33 @@
+Amanda Miller
+Email: amanda.miller@email.com
+Phone: +1-261-282-6083
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 3 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Computer Science
+Carnegie Mellon
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: Django, Angular, React, TensorFlow, GraphQL, AWS
+Technologies & Frameworks: Spring Boot, Scrum, Jenkins, Agile, PyTorch, Bash
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Salesforce
+2021 - 2022 (1 years)
+• Developed and maintained software applications using Django
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented TensorFlow for improved performance
+
+PROJECTS
+• Built a web application using TensorFlow and PyTorch
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

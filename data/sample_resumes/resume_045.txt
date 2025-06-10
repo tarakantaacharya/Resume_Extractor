@@ -1,0 +1,40 @@
+William Miller
+Email: william.miller@email.com
+Phone: +1-934-511-5211
+
+PROFESSIONAL SUMMARY
+Experienced QA Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Data Science
+USC
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: Azure, TensorFlow, Scikit-learn, Flask, Spring Boot
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+QA Engineer
+Atlassian
+2020 - 2021 (1 years)
+• Developed and maintained software applications using TensorFlow
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Spring Boot for improved performance
+
+QA Engineer
+NVIDIA
+2021 - 2024 (3 years)
+• Developed and maintained software applications using Azure
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Flask for improved performance
+
+PROJECTS
+• Built a web application using Scikit-learn and Scikit-learn
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

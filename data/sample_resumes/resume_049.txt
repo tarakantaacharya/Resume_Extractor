@@ -1,0 +1,47 @@
+Emily Rodriguez
+Email: emily.rodriguez@email.com
+Phone: +1-702-869-6317
+
+PROFESSIONAL SUMMARY
+Experienced Mobile Developer with 6 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Electronics
+USC
+Graduated: 2020
+
+TECHNICAL SKILLS
+Programming Languages: Power BI, Angular, JavaScript, SQL, NumPy, Flask
+Technologies & Frameworks: Vue.js, AWS, Docker
+
+WORK EXPERIENCE
+
+Mobile Developer
+MongoDB
+2018 - 2019 (1 years)
+• Developed and maintained software applications using JavaScript
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented NumPy for improved performance
+
+Mobile Developer
+Microsoft
+2019 - 2022 (3 years)
+• Developed and maintained software applications using Power BI
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Flask for improved performance
+
+Mobile Developer
+eBay
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Angular
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Flask for improved performance
+
+PROJECTS
+• Built a web application using Vue.js and NumPy
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

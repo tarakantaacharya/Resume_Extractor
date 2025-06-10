@@ -1,0 +1,33 @@
+Sarah Davis
+Email: sarah.davis@email.com
+Phone: +1-704-610-2362
+
+PROFESSIONAL SUMMARY
+Experienced Machine Learning Engineer with 6 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Machine Learning
+Princeton University
+Graduated: 2019
+
+TECHNICAL SKILLS
+Programming Languages: AWS, Django, Agile, Linux, Tableau, PostgreSQL
+Technologies & Frameworks: Azure, PyTorch
+
+WORK EXPERIENCE
+
+Machine Learning Engineer
+Dropbox
+2018 - 2019 (1 years)
+• Developed and maintained software applications using AWS
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Linux for improved performance
+
+PROJECTS
+• Built a web application using PostgreSQL and Azure
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Flask
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

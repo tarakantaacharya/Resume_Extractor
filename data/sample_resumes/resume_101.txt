@@ -1,0 +1,33 @@
+Susan Brown
+Email: susan.brown@email.com
+Phone: +1-500-962-5959
+
+PROFESSIONAL SUMMARY
+Experienced Cloud Engineer with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Artificial Intelligence
+Georgia Tech
+Graduated: 2015
+
+TECHNICAL SKILLS
+Programming Languages: Deep Learning, Data Science, Pandas, Scrum, Java, JIRA
+Technologies & Frameworks: TensorFlow, Flask, PostgreSQL, Angular, Spring Boot, Git
+
+WORK EXPERIENCE
+
+Cloud Engineer
+Facebook
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Deep Learning
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Scrum for improved performance
+
+PROJECTS
+• Built a web application using Deep Learning and Flask
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,40 @@
+Lisa Brown
+Email: lisa.brown@email.com
+Phone: +1-864-513-2706
+
+PROFESSIONAL SUMMARY
+Experienced Technical Lead with 3 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Computer Science
+Cornell University
+Graduated: 2023
+
+TECHNICAL SKILLS
+Programming Languages: Power BI, HTML, PowerShell, Data Science, Agile
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Technical Lead
+Slack
+2021 - 2023 (2 years)
+• Developed and maintained software applications using Power BI
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Agile for improved performance
+
+Technical Lead
+Twitter
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Power BI
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Agile for improved performance
+
+PROJECTS
+• Built a web application using Power BI and Agile
+• Developed machine learning models for data analysis using PyTorch
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

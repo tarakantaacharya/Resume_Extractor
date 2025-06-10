@@ -1,0 +1,33 @@
+Emily Miller
+Email: emily.miller@email.com
+Phone: +1-788-907-6221
+
+PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Machine Learning
+University of Texas at Austin
+Graduated: 2021
+
+TECHNICAL SKILLS
+Programming Languages: C++, Docker, Python, SQL, Kubernetes
+Technologies & Frameworks: 
+
+WORK EXPERIENCE
+
+Full Stack Developer
+Dropbox
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Docker
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Kubernetes for improved performance
+
+PROJECTS
+• Built a web application using Docker and SQL
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

@@ -1,0 +1,40 @@
+Joseph Davis
+Email: joseph.davis@email.com
+Phone: +1-808-216-9130
+
+PROFESSIONAL SUMMARY
+Experienced Mobile Developer with 3 years of experience in software development and technology.
+
+EDUCATION
+B.S. in Software Engineering
+Harvard University
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: Python, TensorFlow, Agile, Microservices, Docker, Git
+Technologies & Frameworks: Deep Learning, Azure
+
+WORK EXPERIENCE
+
+Mobile Developer
+VMware
+2021 - 2022 (1 years)
+• Developed and maintained software applications using Agile
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Microservices for improved performance
+
+Mobile Developer
+Uber
+2022 - 2023 (1 years)
+• Developed and maintained software applications using Python
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Git for improved performance
+
+PROJECTS
+• Built a web application using Python and Agile
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

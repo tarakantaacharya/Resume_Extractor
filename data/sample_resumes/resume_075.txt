@@ -1,0 +1,33 @@
+William Davis
+Email: william.davis@email.com
+Phone: +1-525-875-2650
+
+PROFESSIONAL SUMMARY
+Experienced QA Engineer with 5 years of experience in software development and technology.
+
+EDUCATION
+B.Tech in Information Technology
+Harvard University
+Graduated: 2018
+
+TECHNICAL SKILLS
+Programming Languages: JIRA, JavaScript, Node.js, Flask, Java, HTML
+Technologies & Frameworks: TensorFlow, PowerShell, Jenkins, Django, PyTorch
+
+WORK EXPERIENCE
+
+QA Engineer
+Airbnb
+2019 - 2021 (2 years)
+• Developed and maintained software applications using JIRA
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Java for improved performance
+
+PROJECTS
+• Built a web application using Node.js and Jenkins
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Django
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

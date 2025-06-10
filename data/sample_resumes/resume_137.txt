@@ -1,0 +1,40 @@
+John Rodriguez
+Email: john.rodriguez@email.com
+Phone: +1-381-702-6740
+
+PROFESSIONAL SUMMARY
+Experienced AI Engineer with 4 years of experience in software development and technology.
+
+EDUCATION
+M.Tech in Computer Science
+Cornell University
+Graduated: 2016
+
+TECHNICAL SKILLS
+Programming Languages: Windows, CSS, Django, MacOS, Spring Boot, Microservices
+Technologies & Frameworks: JIRA, Docker, Python, GraphQL, Bootstrap, Agile
+
+WORK EXPERIENCE
+
+AI Engineer
+Oracle
+2020 - 2023 (3 years)
+• Developed and maintained software applications using Windows
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented Spring Boot for improved performance
+
+AI Engineer
+eBay
+2023 - 2024 (1 years)
+• Developed and maintained software applications using Windows
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MacOS for improved performance
+
+PROJECTS
+• Built a web application using JIRA and Windows
+• Developed machine learning models for data analysis using TensorFlow
+• Created REST APIs using Node.js
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer

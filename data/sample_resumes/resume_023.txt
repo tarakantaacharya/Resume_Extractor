@@ -1,0 +1,33 @@
+Daniel Williams
+Email: daniel.williams@email.com
+Phone: +1-386-618-7284
+
+PROFESSIONAL SUMMARY
+Experienced Product Manager with 2 years of experience in software development and technology.
+
+EDUCATION
+M.S. in Artificial Intelligence
+Penn State
+Graduated: 2017
+
+TECHNICAL SKILLS
+Programming Languages: Linux, Python, Django, MongoDB, Kubernetes, Scikit-learn
+Technologies & Frameworks: REST API, React
+
+WORK EXPERIENCE
+
+Product Manager
+Google
+2022 - 2024 (2 years)
+• Developed and maintained software applications using Python
+• Collaborated with cross-functional teams to deliver high-quality solutions
+• Implemented MongoDB for improved performance
+
+PROJECTS
+• Built a web application using REST API and REST API
+• Developed machine learning models for data analysis using Python
+• Created REST APIs using Spring Boot
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect
+• Google Cloud Professional Data Engineer
